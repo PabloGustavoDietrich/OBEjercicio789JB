@@ -1,0 +1,13 @@
+{
+    "Nombre Completo": {
+    "Nombre":"Pablo",
+    "Apellido":"Dietrich",
+    
+    "cursos":[
+        "Java",
+        "Spring",
+        "Junit"
+    ]
+  }
+
+}
